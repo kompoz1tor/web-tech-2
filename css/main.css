@@ -1,0 +1,56 @@
+
+body {
+    font-size: 20px;
+    color: #333;
+    font-family: 'san-serif';
+    text-align: center;
+    }
+
+h1, h2, h3 {
+    font-family: 'Cony';
+    font-size: 64px;
+    font-weight: bold;
+    border-bottom: 2px dotted red;
+    display : inline;
+    
+}
+
+.content{
+    padding-left: 8%;
+    padding-right: 10%;
+}
+p {
+    padding-left: 2%;
+    text-align: left;
+    border-left: 10px solid red;
+}
+
+picture{
+    position: relative;
+    display: inline-block;
+    
+}
+picture img{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    position: relative;
+    display: inline-block;
+    object-fit: cover;
+    width: 80%;
+    height: 30%;
+    
+}
+
+iframe{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border: 2px dashed red;
+}
+
+ol{
+    text-align: left;
+    border-left: 10px solid red;
+}
+ul{
+    text-align: left;
+}

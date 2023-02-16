@@ -1,0 +1,43 @@
+@font-face {
+	font-family: 'Cony';
+	src: url('../fonts/Cony-Light.eot');
+	src: local('../fonts/Cony Light'), local('Cony-Light'),
+		url('../fonts/Cony-Light.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Cony-Light.woff') format('woff'),
+		url('../fonts/Cony-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Cony';
+	src: url('../fonts/Cony-Condydecor.eot');
+	src: local('../fonts/Cony Condydecor'), local('Cony-Condydecor'),
+		url('../fonts/Cony-Condydecor.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Cony-Condydecor.woff') format('woff'),
+		url('../fonts/Cony-Condydecor.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Cony';
+	src: url('../fonts/Cony.eot');
+	src: local('../fonts/Cony'),
+		url('../fonts/Cony.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Cony.woff') format('woff'),
+		url('../fonts/Cony.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Cony';
+	src: url('../fonts/Cony-Bold.eot');
+	src: local('../fonts/Cony Bold'), local('Cony-Bold'),
+		url('../fonts/Cony-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Cony-Bold.woff') format('woff'),
+		url('../fonts/Cony-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
